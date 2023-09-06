@@ -1,5 +1,5 @@
 <template lang="">
-    <he>Index</he>
+    <div>Index</div>
 </template>
 <script>
 // console.log("app");
